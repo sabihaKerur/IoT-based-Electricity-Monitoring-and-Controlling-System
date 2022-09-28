@@ -1,9 +1,9 @@
 # IoT-based-Electricity-Monitoring-and-Controlling-System
-## requirements 
+## Requirements 
 ### Hardware Requirements:
-Ardiuno, Current Sensor, Realy, Battery, Bulb
+Ardiuno UNO, ACS712 sensor, Realy, Battery, Bulb
 
-### Software:
+### Software Requirements:
 Ardiuno IDE (pest the code in Ardiuno IDE)
 
 ![OutPut](C:\Users\HP\Downloads)
